@@ -9,12 +9,14 @@ If you appreciate our work, please cite our work as
 
 Please cite our work as
 ```
-@ARTICLE{9429975,
-   author={Smith, Josiah W and Furxhi, Orges and Torlak, Murat},
-   journal={IEEE Trans. Multimedia}, 
-   title={An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface}, 
-   year={2021},
-   month=May
+@article{smith2021fcnn,
+	title        = {An {FCNN}-Based Super-Resolution {mmWave} Radar Framework for Contactless Musical Instrument Interface},
+	author       = {Smith, J. W. and Furxhi, O. and Torlak, M.},
+	year         = 2021,
+	month        = may,
+	journal      = {IEEE Trans. Multimedia},
+	volume       = 24,
+	pages        = {2315--2328}
 }
 ```
 
