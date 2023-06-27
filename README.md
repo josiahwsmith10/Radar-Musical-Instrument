@@ -2,12 +2,7 @@
 Full implementation of the Radar Musical Instrument developed in our paper published in IEEE Transactions on Multimedia
 
 ### Publication and Citation
-*An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface*
-IEEE Transactions on Multimedia
-
 If you appreciate our work, please cite our work as
-
-Please cite our work as
 ```
 @article{smith2021fcnn,
 	title        = {An {FCNN}-Based Super-Resolution {mmWave} Radar Framework for Contactless Musical Instrument Interface},
